@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.submissionone.ui.HomeFragment"
+        android:label="Home" />
+
+    <fragment
+        android:id="@+id/upcomingFragment"
+        android:name="com.example.submissionone.ui.UpcomingFragment"
+        android:label="Upcoming" />
+
+    <fragment
+        android:id="@+id/finishedFragment"
+        android:name="com.example.submissionone.ui.FinishedFragment"
+        android:label="Finished" />
+
+    <fragment
+        android:id="@+id/favoriteFragment"
+        android:name="com.example.submissionone.ui.FavoriteFragment"
+        android:label="Favorite" />
+
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.example.submissionone.ui.SettingsFragment"
+        android:label="Settings" />
+
+</navigation>

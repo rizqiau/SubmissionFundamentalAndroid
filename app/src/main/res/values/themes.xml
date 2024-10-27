@@ -1,0 +1,18 @@
+<resources>
+    <!-- Base application theme for light mode. -->
+    <style name="Theme.SubmissionOne" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorOnBackground">@color/black</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+
+        <!-- Background color -->
+        <item name="android:windowBackground">@color/white</item>
+
+        <!-- Text color -->
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <!-- Overlay theme for fullscreen containers -->
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SubmissionOne</string>
+    <string name="event_image">Event Image</string>
+    <string name="title_main">Dicoding</string>
+    <string name="event_name">Event Name</string>
+    <string name="owner_name">Owner Name</string>
+    <string name="city_name">City Name</string>
+    <string name="event_date">Event Date</string>
+    <string name="event_quota">Quota: %1$d</string>
+    <string name="event_time">%1$s %2$s</string>
+    <string name="description">Description</string>
+    <string name="open_event_link">Open Event Link</string>
+    <string name="upcoming_event">Upcoming Events</string>
+    <string name="finished_events">Finished Events</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="favorite_events">Favorite Events</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="notification">Notification</string>
+    <string name="favorite">favorite</string>
+    <string name="home">Home</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="finished">Finished</string>
+    <string name="settings">Settings</string>
+</resources>
